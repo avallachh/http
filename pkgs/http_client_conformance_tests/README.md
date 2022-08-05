@@ -1,5 +1,3 @@
-[![pub package](https://img.shields.io/pub/v/http_client_conformance_tests.svg)](https://pub.dev/packages/http_client_conformance_tests)
-
 A library that tests whether implementations of `package:http`
 [`Client`](https://pub.dev/documentation/http/latest/http/Client-class.html)
 behave as expected.
