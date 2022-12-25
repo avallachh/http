@@ -12,8 +12,6 @@ on:
     paths:
       - 'pkgs/cronet_http/**'
       - 'pkgs/http_client_conformance_tests/**'
-  schedule:
-    - cron: "0 0 * * 0"
 
 env:
   PUB_ENVIRONMENT: bot.github
